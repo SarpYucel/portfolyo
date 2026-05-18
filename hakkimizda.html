@@ -154,6 +154,15 @@
     <!-- 3D Scroll Reveal Animasyonu -->
     <script>
         document.addEventListener('DOMContentLoaded', () => {
+            // Mobil menü linklerine tıklandığında menüyü otomatik kapatma
+            const menuToggle = document.getElementById('menu-toggle');
+            const navLinks = document.querySelectorAll('.nav-menu a');
+            navLinks.forEach(link => {
+                link.addEventListener('click', () => {
+                    if (menuToggle) menuToggle.checked = false;
+                });
+            });
+
             const revealOptions = {
                 threshold: 0.15,
                 rootMargin: "0px 0px -50px 0px"
@@ -167,8 +176,8 @@
                 });
             }, revealOptions);
 
-            // Hakkımızda sayfasındaki animasyon alacak elementler
-            const revealElements = document.querySelectorAll('.section-header, .profile-sidebar, .bio-card, .skills-category-card');
+            // Hakkımızda sayfasındaki animasyon alacak elementler (Düzeltildi)
+            const revealElements = document.querySelectorAll('.section-header, .profile-card, .about-card, .skills-category-card');
             
             revealElements.forEach((el, index) => {
                 el.classList.add('reveal-on-scroll');

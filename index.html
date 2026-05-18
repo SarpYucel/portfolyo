@@ -242,6 +242,15 @@
     <!-- Fetch GitHub Projects Script -->
     <script>
         document.addEventListener('DOMContentLoaded', async () => {
+            // Mobil menü linklerine tıklandığında menüyü otomatik kapatma
+            const menuToggle = document.getElementById('menu-toggle');
+            const navLinks = document.querySelectorAll('.nav-menu a');
+            navLinks.forEach(link => {
+                link.addEventListener('click', () => {
+                    if (menuToggle) menuToggle.checked = false;
+                });
+            });
+
             // LÜTFEN DİKKAT: Eğer GitHub kullanıcı adınız farklıysa aşağıdaki satırı güncelleyin.
             const GITHUB_USERNAME = 'SarpYucel';
 
@@ -283,7 +292,7 @@
                     const date = new Date(repo.updated_at).toLocaleDateString('tr-TR', { year: 'numeric', month: 'short' });
 
                     card.innerHTML = `
-                        <div class="project-content" style="padding: 2.5rem 2rem; display: flex; flex-direction: column; height: 100%;">
+                        <div class="project-content" style="display: flex; flex-direction: column; height: 100%;">
                             <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 1rem;">
                                 <div class="project-icon" style="background: rgba(99, 102, 241, 0.1); padding: 12px; border-radius: 12px; color: var(--primary-color);">
                                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12h4l3-9 5 18 3-9h5"/></svg>
