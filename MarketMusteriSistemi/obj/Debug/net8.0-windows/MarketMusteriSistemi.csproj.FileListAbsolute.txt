@@ -1,0 +1,50 @@
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\bin\Debug\net8.0-windows\MarketMusteriSistemi.exe
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\bin\Debug\net8.0-windows\MarketMusteriSistemi.deps.json
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\bin\Debug\net8.0-windows\MarketMusteriSistemi.runtimeconfig.json
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\bin\Debug\net8.0-windows\MarketMusteriSistemi.dll
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\bin\Debug\net8.0-windows\MarketMusteriSistemi.pdb
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.csproj.AssemblyReference.cache
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.AssemblyInfoInputs.cache
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.AssemblyInfo.cs
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMu.F0B260EA.Up2Date
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.dll
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\obj\Debug\net8.0-windows\refint\MarketMusteriSistemi.dll
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.pdb
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.genruntimeconfig.cache
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\obj\Debug\net8.0-windows\ref\MarketMusteriSistemi.dll
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.LoginForm.resources
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.MainForm.resources
+C:\Users\Sarp\Desktop\ödev\MBP-104 Proje\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.csproj.GenerateResource.cache
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\bin\Debug\net8.0-windows\MarketMusteriSistemi.exe
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\bin\Debug\net8.0-windows\MarketMusteriSistemi.deps.json
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\bin\Debug\net8.0-windows\MarketMusteriSistemi.runtimeconfig.json
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\bin\Debug\net8.0-windows\MarketMusteriSistemi.dll
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\bin\Debug\net8.0-windows\MarketMusteriSistemi.pdb
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.csproj.AssemblyReference.cache
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.LoginForm.resources
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.MainForm.resources
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.csproj.GenerateResource.cache
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.AssemblyInfoInputs.cache
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.AssemblyInfo.cs
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMu.F0B260EA.Up2Date
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.dll
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\obj\Debug\net8.0-windows\refint\MarketMusteriSistemi.dll
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.pdb
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\obj\Debug\net8.0-windows\MarketMusteriSistemi.genruntimeconfig.cache
+C:\Users\Sarp\Desktop\MarketMusteriSistemi\obj\Debug\net8.0-windows\ref\MarketMusteriSistemi.dll
