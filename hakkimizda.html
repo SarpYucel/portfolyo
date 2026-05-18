@@ -54,7 +54,7 @@
                         </div>
                         <h2>Sarp Yücel</h2>
                         <p class="profile-tagline">Junior Software Developer</p>
-                        <p class="profile-location">📍 İstanbul, Türkiye</p>
+                        <p class="profile-location">📍 İzmir, Türkiye</p>
                         <hr class="profile-divider">
                         <div class="profile-quick-links">
                             <a href="mailto:sarpyucel13@gmail.com" class="quick-link-btn">📧 E-posta Gönder</a>
@@ -95,7 +95,7 @@
                             </div>
                             <div class="bio-text">
                                 <h3>Vizyon &amp; Hedefler</h3>
-                                <p>Gelecekte yüksek performanslı ve ölçeklenebilir kurumsal web ve masaüstü çözümleri üreten bir full-stack geliştirici olmayı hedefliyorum. Her yeni projeyi yeni bir öğrenme serüveni ve problem çözme fırsatı olarak görüyorum.</p>
+                                <p>Yüksek performanslı ve ölçeklenebilir kurumsal web ve masaüstü çözümleri üreten yetkin bir yazılım geliştirici olmayı hedefliyorum. Her yeni projeyi yeni bir öğrenme serüveni ve problem çözme fırsatı olarak görüyorum.</p>
                             </div>
                         </div>
                     </div>
@@ -120,9 +120,9 @@
                                 <h4>Backend &amp; DB</h4>
                                 <div class="skill-pills">
                                     <span class="skill-badge">C# Programming</span>
+                                    <span class="skill-badge">Java</span>
+                                    <span class="skill-badge">Python</span>
                                     <span class="skill-badge">SQL Server / T-SQL</span>
-                                    <span class="skill-badge">PHP Core</span>
-                                    <span class="skill-badge">3NF Normalization</span>
                                     <span class="skill-badge">ADO.NET</span>
                                 </div>
                             </div>
@@ -151,5 +151,31 @@
         </div>
     </footer>
 
+    <!-- 3D Scroll Reveal Animasyonu -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const revealOptions = {
+                threshold: 0.15,
+                rootMargin: "0px 0px -50px 0px"
+            };
+
+            const revealOnScroll = new IntersectionObserver(function(entries, observer) {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('is-visible');
+                    }
+                });
+            }, revealOptions);
+
+            // Hakkımızda sayfasındaki animasyon alacak elementler
+            const revealElements = document.querySelectorAll('.section-header, .profile-sidebar, .bio-card, .skills-category-card');
+            
+            revealElements.forEach((el, index) => {
+                el.classList.add('reveal-on-scroll');
+                el.style.transitionDelay = `${(index % 3) * 0.15}s`;
+                revealOnScroll.observe(el);
+            });
+        });
+    </script>
 </body>
 </html>
