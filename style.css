@@ -1189,3 +1189,32 @@ body {
     opacity: 1;
     transform: perspective(1000px) rotateX(0deg) translateY(0);
 }
+
+/* --- Restore 3D Hover Effects Overridden by Reveal-on-Scroll --- */
+.terminal-window.is-visible:hover {
+    transform: perspective(1000px) translateY(-8px) rotateX(4deg) rotateY(-4deg) scale(1.02);
+}
+
+.project-card.is-visible:hover {
+    transform: perspective(1000px) translateY(-10px) rotateX(3deg) rotateY(-3deg);
+}
+
+.btn-cv.is-visible:hover {
+    transform: perspective(1000px) translateY(-4px) rotateX(4deg);
+}
+
+.contact-item.is-visible:hover {
+    transform: perspective(1000px) translateX(5px) rotateY(-3deg);
+}
+
+.profile-card.is-visible:hover {
+    transform: perspective(1000px) translateY(-5px) rotateX(2deg) rotateY(2deg);
+}
+
+.about-card.glass.is-visible:hover {
+    transform: perspective(1000px) translateY(-5px) rotateX(1deg) rotateY(-1deg);
+}
+
+.skills-category-card.is-visible:hover {
+    transform: perspective(1000px) translateY(-5px) rotateX(2deg) rotateY(-2deg);
+}
